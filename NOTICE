@@ -1,0 +1,12 @@
+reasoning-from-scratch-ko — 한국어 주석판 실습 노트북
+
+이 저장소의 노트북(chNN_ko.ipynb)은 Sebastian Raschka의 reasoning-from-scratch
+(https://github.com/rasbt/reasoning-from-scratch, Apache License 2.0)의
+chNN_main.ipynb를 바탕으로 만든 2차 저작물입니다.
+
+변경 사항: 코난쌤(@conanssam)이 설명 글(마크다운 셀)을 한국어로 옮기고, 코드 셀에
+한국어 주석 줄(#)을 덧붙이고, 맨 위에 출처·사용법 셀을 더했으며, 실행 결과(출력)를 비웠습니다.
+코드 자체는 원본과 같습니다.
+
+원본 저작권: Copyright (c) Sebastian Raschka. 라이선스 전문은 LICENSE 파일을 보세요.
+책: Build a Reasoning Model (From Scratch), Sebastian Raschka, Manning.
